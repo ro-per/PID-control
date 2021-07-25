@@ -1,0 +1,17 @@
+ ---------------------- Question 1 ---------------------- 
+	 Poles of the system are [-1.  1.], and zeroes are [-0.5]
+	 Since [-1.  1.] are the poles, the system is unstable
+	 The end value of the OL step_response is inf
+ ---------------------- Question 2 ---------------------- 
+	 The maximum gain in Hz is (2.0, inf, inf, 0.0, nan, nan)
+ ---------------------- Question 3 ---------------------- 
+	 The end value is 2.989823334089676
+	 The end value is 1.0714285340574445
+	 The end value is 0.9999993587800142
+	 The end value is 0.9999999933486386
+ ---------------------- Question 4 ---------------------- 
+                RiseTime  SettlingTime  ...  PeakTime  SteadyStateValue
+P regulator  0  0.096891           NaN  ...  0.233956          1.071429
+PI Regulator 0  0.077761      0.178393  ...  0.226422          1.000000
+
+[2 rows x 9 columns]

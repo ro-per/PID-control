@@ -1,0 +1,12 @@
+1) minder kleur
+2) code niet op zwarte achtergrond
+3)  geen * voor multiplicaties
+4) singulariteit --> kritisch punt
+5)  vergelijking --> transferfunctie
+6) rederning voor waarden (Er ontbreekt de redenering voor Ti.)
+7) focus op responsies
+8) beoordeel enkel wat je zien
+
+
+
+Jullie gaan hier te weinig in op het Nyquist Criterium. Men ziet hier dat het ND het kritisch punt snijdt. Dat betekent: Het ND omwentelt het kritisch punt net (of net niet). Daardoor zijn er net geen (of net wel) CLTF polen in het RHV. Dit bewijst dat dit systeem grensstabiel is.
